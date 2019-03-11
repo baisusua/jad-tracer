@@ -1,0 +1,27 @@
+{
+  "name": "jad-tracer",
+  "version": "1.0.0",
+  "description": "jad-tracer apm",
+  "main": "tracer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baisusua/jad-tracer.git"
+  },
+  "keywords": [
+    "tracer",
+    "apm",
+    "jad"
+  ],
+  "author": "kround",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baisusua/jad-tracer/issues"
+  },
+  "homepage": "https://github.com/baisusua/jad-tracer#readme",
+  "dependencies": {
+    "elastic-apm-js-base": "^3.0.0"
+  }
+}
